@@ -1,5 +1,6 @@
 package net.sectorbob.football.client;
 
+import net.sectorbob.football.config.properties.PhantomJsProperties;
 import net.sectorbob.football.config.properties.ProxyProperties;
 import net.sectorbob.football.model.RotoGrindersVegasOddsRecord;
 import net.sectorbob.football.model.Team;
@@ -27,14 +28,14 @@ public class RotoGrindersClient {
 
     private DesiredCapabilities caps;
 
-    public RotoGrindersClient(ProxyProperties proxyProperties) {
+    public RotoGrindersClient(ProxyProperties proxyProperties, PhantomJsProperties phantomJsProperties) {
 
         ArrayList<String> phantomArgs = new ArrayList<>();
         phantomArgs.add("--webdriver-loglevel=NONE");
 
         caps = new DesiredCapabilities();
         caps.setCapability(PhantomJSDriverService.PHANTOMJS_EXECUTABLE_PATH_PROPERTY,
-                "/usr/local/Cellar/phantomjs/2.0.0/bin/phantomjs");
+                phantomJsProperties.getDriverPath());
 
         // If the proxy is configured then set this up
         //if(proxyProperties.isEnabled()) {
@@ -43,8 +44,6 @@ public class RotoGrindersClient {
         //}
 
         caps.setCapability(PhantomJSDriverService.PHANTOMJS_CLI_ARGS, phantomArgs);
-
-
 
     }
 
