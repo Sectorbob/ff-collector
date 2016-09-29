@@ -1,0 +1,1851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aad68b1e-d77d-49f9-8551-07153ce7376f" name="Default" comment="" />
+    <ignored path="football-statistics-api.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="football-statistics-api" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="MasterPlayerRecord.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/net/sectorbob/football/model/MasterPlayerRecord.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="262" column="68" selection-start-line="262" selection-start-column="68" selection-end-line="262" selection-end-column="68" />
+              <folding>
+                <element signature="e#954#955#0" expanded="true" />
+                <element signature="e#987#988#0" expanded="true" />
+                <element signature="e#1039#1040#0" expanded="true" />
+                <element signature="e#1083#1084#0" expanded="true" />
+                <element signature="e#1120#1121#0" expanded="true" />
+                <element signature="e#1151#1152#0" expanded="true" />
+                <element signature="e#1201#1202#0" expanded="true" />
+                <element signature="e#1241#1242#0" expanded="true" />
+                <element signature="e#1270#1271#0" expanded="true" />
+                <element signature="e#1297#1298#0" expanded="true" />
+                <element signature="e#1335#1336#0" expanded="true" />
+                <element signature="e#1367#1368#0" expanded="true" />
+                <element signature="e#1400#1401#0" expanded="true" />
+                <element signature="e#1431#1432#0" expanded="true" />
+                <element signature="e#1477#1478#0" expanded="true" />
+                <element signature="e#1517#1518#0" expanded="true" />
+                <element signature="e#1551#1552#0" expanded="true" />
+                <element signature="e#1581#1582#0" expanded="true" />
+                <element signature="e#1627#1628#0" expanded="true" />
+                <element signature="e#1665#1666#0" expanded="true" />
+                <element signature="e#1696#1697#0" expanded="true" />
+                <element signature="e#1723#1724#0" expanded="true" />
+                <element signature="e#1763#1764#0" expanded="true" />
+                <element signature="e#1795#1796#0" expanded="true" />
+                <element signature="e#1834#1835#0" expanded="true" />
+                <element signature="e#1869#1870#0" expanded="true" />
+                <element signature="e#1925#1926#0" expanded="true" />
+                <element signature="e#1973#1974#0" expanded="true" />
+                <element signature="e#2018#2019#0" expanded="true" />
+                <element signature="e#2058#2059#0" expanded="true" />
+                <element signature="e#2125#2126#0" expanded="true" />
+                <element signature="e#2183#2184#0" expanded="true" />
+                <element signature="e#2228#2229#0" expanded="true" />
+                <element signature="e#2268#2269#0" expanded="true" />
+                <element signature="e#2335#2336#0" expanded="true" />
+                <element signature="e#2393#2394#0" expanded="true" />
+                <element signature="e#2438#2439#0" expanded="true" />
+                <element signature="e#2478#2479#0" expanded="true" />
+                <element signature="e#2545#2546#0" expanded="true" />
+                <element signature="e#2603#2604#0" expanded="true" />
+                <element signature="e#2648#2649#0" expanded="true" />
+                <element signature="e#2688#2689#0" expanded="true" />
+                <element signature="e#2755#2756#0" expanded="true" />
+                <element signature="e#2813#2814#0" expanded="true" />
+                <element signature="e#2859#2860#0" expanded="true" />
+                <element signature="e#2900#2901#0" expanded="true" />
+                <element signature="e#2969#2970#0" expanded="true" />
+                <element signature="e#3029#3030#0" expanded="true" />
+                <element signature="e#3076#3077#0" expanded="true" />
+                <element signature="e#3118#3119#0" expanded="true" />
+                <element signature="e#3189#3190#0" expanded="true" />
+                <element signature="e#3251#3252#0" expanded="true" />
+                <element signature="e#3283#3284#0" expanded="true" />
+                <element signature="e#3310#3311#0" expanded="true" />
+                <element signature="e#3351#3352#0" expanded="true" />
+                <element signature="e#3383#3384#0" expanded="true" />
+                <element signature="e#3424#3425#0" expanded="true" />
+                <element signature="e#3460#3461#0" expanded="true" />
+                <element signature="e#3519#3520#0" expanded="true" />
+                <element signature="e#3569#3570#0" expanded="true" />
+                <element signature="e#3837#3838#0" expanded="true" />
+                <element signature="e#3885#3886#0" expanded="true" />
+                <element signature="e#3932#3933#0" expanded="true" />
+                <element signature="e#3975#3976#0" expanded="true" />
+                <element signature="e#4437#4438#0" expanded="true" />
+                <element signature="e#4469#4470#0" expanded="true" />
+                <element signature="e#4519#4520#0" expanded="true" />
+                <element signature="e#4561#4562#0" expanded="true" />
+                <element signature="e#4592#4593#0" expanded="true" />
+                <element signature="e#4618#4619#0" expanded="true" />
+                <element signature="e#4657#4658#0" expanded="true" />
+                <element signature="e#4687#4688#0" expanded="true" />
+                <element signature="e#4720#4721#0" expanded="true" />
+                <element signature="e#4746#4747#0" expanded="true" />
+                <element signature="e#4787#4788#0" expanded="true" />
+                <element signature="e#4823#4824#0" expanded="true" />
+                <element signature="e#4882#4883#0" expanded="true" />
+                <element signature="e#4932#4933#0" expanded="true" />
+                <element signature="e#4973#4974#0" expanded="true" />
+                <element signature="e#5003#5004#0" expanded="true" />
+                <element signature="e#5041#5042#0" expanded="true" />
+                <element signature="e#5072#5073#0" expanded="true" />
+                <element signature="e#5123#5124#0" expanded="true" />
+                <element signature="e#5163#5164#0" expanded="true" />
+                <element signature="e#12610#12611#0" expanded="true" />
+                <element signature="e#12646#12647#0" expanded="true" />
+                <element signature="e#12693#12694#0" expanded="true" />
+                <element signature="e#12735#12736#0" expanded="true" />
+                <element signature="e#12779#12780#0" expanded="true" />
+                <element signature="e#12822#12823#0" expanded="true" />
+                <element signature="e#12883#12884#0" expanded="true" />
+                <element signature="e#12939#12940#0" expanded="true" />
+                <element signature="e#12982#12983#0" expanded="true" />
+                <element signature="e#13024#13025#0" expanded="true" />
+                <element signature="e#13083#13084#0" expanded="true" />
+                <element signature="e#13137#13138#0" expanded="true" />
+                <element signature="e#13184#13185#0" expanded="true" />
+                <element signature="e#13230#13231#0" expanded="true" />
+                <element signature="e#13298#13299#0" expanded="true" />
+                <element signature="e#13361#13362#0" expanded="true" />
+                <element signature="e#13405#13406#0" expanded="true" />
+                <element signature="e#13448#13449#0" expanded="true" />
+                <element signature="e#13509#13510#0" expanded="true" />
+                <element signature="e#13565#13566#0" expanded="true" />
+                <element signature="e#13614#13615#0" expanded="true" />
+                <element signature="e#13662#13663#0" expanded="true" />
+                <element signature="e#13733#13734#0" expanded="true" />
+                <element signature="e#13799#13800#0" expanded="true" />
+                <element signature="e#13844#13845#0" expanded="true" />
+                <element signature="e#13888#13889#0" expanded="true" />
+                <element signature="e#13951#13952#0" expanded="true" />
+                <element signature="e#14009#14010#0" expanded="true" />
+                <element signature="e#14052#14053#0" expanded="true" />
+                <element signature="e#14094#14095#0" expanded="true" />
+                <element signature="e#14153#14154#0" expanded="true" />
+                <element signature="e#14207#14208#0" expanded="true" />
+                <element signature="e#14265#14266#0" expanded="true" />
+                <element signature="e#14323#14324#0" expanded="true" />
+                <element signature="e#14550#14551#0" expanded="true" />
+                <element signature="e#14601#14602#0" expanded="true" />
+                <element signature="e#14801#14802#0" expanded="true" />
+                <element signature="e#14853#14854#0" expanded="true" />
+                <element signature="e#15072#15073#0" expanded="true" />
+                <element signature="e#15139#15140#0" expanded="true" />
+                <element signature="e#15398#15399#0" expanded="true" />
+                <element signature="e#15444#15445#0" expanded="true" />
+                <element signature="e#15511#15512#0" expanded="true" />
+                <element signature="e#15573#15574#0" expanded="true" />
+                <element signature="e#15617#15618#0" expanded="true" />
+                <element signature="e#15660#15661#0" expanded="true" />
+                <element signature="e#15721#15722#0" expanded="true" />
+                <element signature="e#15777#15778#0" expanded="true" />
+                <element signature="e#15826#15827#0" expanded="true" />
+                <element signature="e#15874#15875#0" expanded="true" />
+                <element signature="e#15945#15946#0" expanded="true" />
+                <element signature="e#16011#16012#0" expanded="true" />
+                <element signature="e#16054#16055#0" expanded="true" />
+                <element signature="e#16096#16097#0" expanded="true" />
+                <element signature="e#16155#16156#0" expanded="true" />
+                <element signature="e#16209#16210#0" expanded="true" />
+                <element signature="e#16248#16249#0" expanded="true" />
+                <element signature="e#16286#16287#0" expanded="true" />
+                <element signature="e#16337#16338#0" expanded="true" />
+                <element signature="e#16383#16384#0" expanded="true" />
+                <element signature="e#16425#16426#0" expanded="true" />
+                <element signature="e#16466#16467#0" expanded="true" />
+                <element signature="e#16523#16524#0" expanded="true" />
+                <element signature="e#16575#16576#0" expanded="true" />
+                <element signature="e#16621#16622#0" expanded="true" />
+                <element signature="e#16666#16667#0" expanded="true" />
+                <element signature="e#16731#16732#0" expanded="true" />
+                <element signature="e#16791#16792#0" expanded="true" />
+                <element signature="e#16842#16843#0" expanded="true" />
+                <element signature="e#16892#16893#0" expanded="true" />
+                <element signature="e#17085#17086#0" expanded="true" />
+                <element signature="e#17132#17133#0" expanded="true" />
+                <element signature="e#17201#17202#0" expanded="true" />
+                <element signature="e#17265#17266#0" expanded="true" />
+                <element signature="e#17309#17310#0" expanded="true" />
+                <element signature="e#17352#17353#0" expanded="true" />
+                <element signature="e#17413#17414#0" expanded="true" />
+                <element signature="e#17469#17470#0" expanded="true" />
+                <element signature="e#17514#17515#0" expanded="true" />
+                <element signature="e#17558#17559#0" expanded="true" />
+                <element signature="e#17621#17622#0" expanded="true" />
+                <element signature="e#17679#17680#0" expanded="true" />
+                <element signature="e#17723#17724#0" expanded="true" />
+                <element signature="e#17766#17767#0" expanded="true" />
+                <element signature="e#17827#17828#0" expanded="true" />
+                <element signature="e#17883#17884#0" expanded="true" />
+                <element signature="e#17936#17937#0" expanded="true" />
+                <element signature="e#17988#17989#0" expanded="true" />
+                <element signature="e#18182#18183#0" expanded="true" />
+                <element signature="e#18222#18223#0" expanded="true" />
+                <element signature="e#18277#18278#0" expanded="true" />
+                <element signature="e#18327#18328#0" expanded="true" />
+                <element signature="e#18375#18376#0" expanded="true" />
+                <element signature="e#18422#18423#0" expanded="true" />
+                <element signature="e#18491#18492#0" expanded="true" />
+                <element signature="e#18555#18556#0" expanded="true" />
+                <element signature="e#18604#18605#0" expanded="true" />
+                <element signature="e#18652#18653#0" expanded="true" />
+                <element signature="e#18723#18724#0" expanded="true" />
+                <element signature="e#18789#18790#0" expanded="true" />
+                <element signature="e#18846#18847#0" expanded="true" />
+                <element signature="e#18902#18903#0" expanded="true" />
+                <element signature="e#19125#19126#0" expanded="true" />
+                <element signature="e#19178#19179#0" expanded="true" />
+                <element signature="e#19386#19387#0" expanded="true" />
+                <element signature="e#19436#19437#0" expanded="true" />
+                <element signature="e#19637#19638#0" expanded="true" />
+                <element signature="e#19692#19693#0" expanded="true" />
+                <element signature="e#19908#19909#0" expanded="true" />
+                <element signature="e#19958#19959#0" expanded="true" />
+                <element signature="e#20161#20162#0" expanded="true" />
+                <element signature="e#20218#20219#0" expanded="true" />
+                <element signature="e#20445#20446#0" expanded="true" />
+                <element signature="e#20498#20499#0" expanded="true" />
+                <element signature="e#20706#20707#0" expanded="true" />
+                <element signature="e#20756#20757#0" expanded="true" />
+                <element signature="e#20957#20958#0" expanded="true" />
+                <element signature="e#21012#21013#0" expanded="true" />
+                <element signature="e#21235#21236#0" expanded="true" />
+                <element signature="e#21292#21293#0" expanded="true" />
+                <element signature="e#21506#21507#0" expanded="true" />
+                <element signature="e#21546#21547#0" expanded="true" />
+                <element signature="e#21601#21602#0" expanded="true" />
+                <element signature="e#21651#21652#0" expanded="true" />
+                <element signature="e#21695#21696#0" expanded="true" />
+                <element signature="e#21738#21739#0" expanded="true" />
+                <element signature="e#21799#21800#0" expanded="true" />
+                <element signature="e#21855#21856#0" expanded="true" />
+                <element signature="e#21906#21907#0" expanded="true" />
+                <element signature="e#21956#21957#0" expanded="true" />
+                <element signature="e#22154#22155#0" expanded="true" />
+                <element signature="e#22207#22208#0" expanded="true" />
+                <element signature="e#22417#22418#0" expanded="true" />
+                <element signature="e#22471#22472#0" expanded="true" />
+                <element signature="e#22696#22697#0" expanded="true" />
+                <element signature="e#22761#22762#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProjectionSheetGenerator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/net/sectorbob/football/excel/ProjectionSheetGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="205" column="9" selection-start-line="205" selection-start-column="9" selection-end-line="205" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="63" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExcelController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/net/sectorbob/football/rest/ExcelController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="23" column="52" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/fantasy-player-tracker" value="2879670119000" />
+        <entry key="$USER_HOME$/IdeaProjects/fgl-player-tracker" value="2879342236000" />
+        <entry key="$USER_HOME$/IdeaProjects/test-repository-poc" value="2863079248000" />
+        <entry key="$PROJECT_DIR$/../../PokeGOAPI-Java" value="2939047930000" />
+        <entry key="$PROJECT_DIR$/../../fantasy-football-collector" value="2880263830000" />
+        <entry key="$PROJECT_DIR$/../fantasy-football-collector" value="2914166515000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/net/sectorbob/football/exception/RestGlobalExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/sectorbob/football/support/Table.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/sectorbob/football/support/LinkTableCellData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/sectorbob/football/client/YahooDailyFantasyFootballClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/sectorbob/football/rest/DailyController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/sectorbob/football/model/PRFTeamDefenseRecord.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/sectorbob/football/model/PFReamDefenseRecord.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/sectorbob/football/rest/StatisticsController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/sectorbob/football/rest/VegasLinesController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/sectorbob/football/support/Util.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/sectorbob/football/model/PFRPassingRecord.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/sectorbob/football/model/PFRReceivingRecord.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/sectorbob/football/model/PFRRushingAndReceivingRecord.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/sectorbob/football/model/PFRTeamDefenseRecord.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/net/sectorbob/football/Application.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/sectorbob/football/rest/template/StatefulRestTemplate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/sectorbob/football/config/properties/ProxyConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/sectorbob/football/config/properties/ProxyProperties.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/sectorbob/football/config/properties/FantasyProsProperties.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/net/sectorbob/football/model/FantasyProsRankings.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/sectorbob/football/config/SpringConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/sectorbob/football/model/Position.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/sectorbob/football/client/ProFootballReferenceClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/sectorbob/football/client/FantasyProsClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/sectorbob/football/client/RosterWatchClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/sectorbob/football/rest/RankingsController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/sectorbob/football/model/RotoGrindersVegasOddsRecord.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/sectorbob/football/client/RotoGrindersClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/sectorbob/football/model/CurrentPlayerRecord.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/sectorbob/football/model/YahooDailyPlayersFeedNFL.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/sectorbob/football/logic/WeekTiming.java" />
+        <option value="$PROJECT_DIR$/src/test/java/net/sectorbob/football/logic/WeekTimingTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/sectorbob/football/model/Team.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/sectorbob/football/rest/CurrentPlayerJoinController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/sectorbob/football/model/MasterPlayerRecord.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/sectorbob/football/rest/ExcelController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/sectorbob/football/excel/ProjectionSheetGenerator.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages ProjectPane="true" />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="football-statistics-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="football-statistics-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="football-statistics-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="football-statistics-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="football-statistics-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="logic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="football-statistics-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="football-statistics-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="football-statistics-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="football-statistics-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="football-statistics-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="football-statistics-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="football-statistics-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="football-statistics-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="football-statistics-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="football-statistics-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="logic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="football-statistics-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="football-statistics-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="excel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="football-statistics-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="football-statistics-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="properties" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="football-statistics-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="football-statistics-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="football-statistics-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="football-statistics-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="football-statistics-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="football-statistics-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="football" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="true" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="net.sectorbob.football.support" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/net/sectorbob/football/support" />
+      <recent name="$PROJECT_DIR$/src/main/java/net/sectorbob/football/exception" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.run boot">
+    <configuration default="false" name="WeekTimingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="net.sectorbob.football.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="net.sectorbob.football.logic.WeekTimingTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="football-statistics-api" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoRunFileConfiguration" factoryName="Go Single File">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="executeSpecs" factoryName="Gauge Execution">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="false" name="run boot" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="net.sectorbob.football.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <module name="football-statistics-api" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.run boot" />
+      <item index="1" class="java.lang.String" itemvalue="Application.WeekTimingTest" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.WeekTimingTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aad68b1e-d77d-49f9-8551-07153ce7376f" name="Default" comment="" />
+      <created>1474121216372</created>
+      <option name="number" value="Default" />
+      <updated>1474121216372</updated>
+      <workItem from="1474121219248" duration="19076000" />
+      <workItem from="1475114247340" duration="26960000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="46036000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32891566" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891566" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24248926" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28674698" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.2.RELEASE/spring-web-4.3.2.RELEASE.jar!/org/springframework/web/client/RestTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.888889">
+          <caret line="161" column="33" selection-start-line="161" selection-start-column="33" selection-end-line="161" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.2.RELEASE/spring-web-4.3.2.RELEASE-sources.jar!/org/springframework/web/client/RestTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33291772">
+          <caret line="306" column="33" selection-start-line="306" selection-start-column="33" selection-end-line="306" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/sectorbob/football/support/Table.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13092269">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/sectorbob/football/support/LinkTableCellData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.8.3/jsoup-1.8.3.jar!/org/jsoup/select/Elements.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35059762">
+          <caret line="369" column="19" selection-start-line="369" selection-start-column="19" selection-end-line="369" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.53.1/selenium-api-2.53.1.jar!/org/openqa/selenium/remote/DesiredCapabilities.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.5185184">
+          <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.53.1/selenium-api-2.53.1-sources.jar!/org/openqa/selenium/remote/DesiredCapabilities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.4461248">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/sectorbob/football/model/PFRReceivingRecord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding>
+            <element signature="e#704#705#0" expanded="false" />
+            <element signature="e#731#732#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/sectorbob/football/rest/StatisticsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="43" column="67" selection-start-line="43" selection-start-column="67" selection-end-line="43" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="52" column="20" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
+          <folding>
+            <marker date="1475118181000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi/3.14/poi-3.14.jar!/org/apache/poi/hssf/usermodel/HSSFFont.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30726257">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.5/httpcore-4.4.5-sources.jar!/org/apache/http/params/BasicHttpParams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5992908">
+          <caret line="58" column="11" selection-start-line="58" selection-start-column="11" selection-end-line="58" selection-end-column="11" />
+          <folding>
+            <element signature="e#2223#2224#0" expanded="false" />
+            <element signature="e#2246#2247#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$JAVA_HOME$/jre/lib/jsse.jar!/sun/security/ssl/SSLSocketImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6405959">
+          <caret line="606" column="0" selection-start-line="606" selection-start-column="0" selection-end-line="606" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$JAVA_HOME$/jre/lib/jsse.jar!/sun/security/ssl/Alerts.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="198" column="0" selection-start-line="198" selection-start-column="0" selection-end-line="198" selection-end-column="0" />
+          <folding>
+            <element signature="e#5290#5291#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/sectorbob/football/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26595744">
+          <caret line="12" column="71" selection-start-line="12" selection-start-column="71" selection-end-line="12" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/sectorbob/football/support/Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="159" column="0" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.jar!/org/apache/http/impl/client/HttpClientBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.962963">
+          <caret line="389" column="35" selection-start-line="389" selection-start-column="35" selection-end-line="389" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2-sources.jar!/org/apache/http/client/RedirectStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.010638298">
+          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="669" column="68" selection-start-line="669" selection-start-column="68" selection-end-line="669" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/sectorbob/football/rest/template/StatefulRestTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0531915">
+          <caret line="42" column="68" selection-start-line="42" selection-start-column="68" selection-end-line="42" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/sectorbob/football/config/properties/ProxyProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13407822">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/sectorbob/football/config/properties/FantasyProsProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25139666">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#435#436#0" expanded="false" />
+            <element signature="e#466#467#0" expanded="false" />
+            <element signature="e#514#515#0" expanded="false" />
+            <element signature="e#554#555#0" expanded="false" />
+            <element signature="e#589#590#0" expanded="false" />
+            <element signature="e#620#621#0" expanded="false" />
+            <element signature="e#668#669#0" expanded="false" />
+            <element signature="e#708#709#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/sectorbob/football/model/FantasyProsRankings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1333#1334#0" expanded="true" />
+            <element signature="e#1372#1373#0" expanded="true" />
+            <element signature="e#1426#1427#0" expanded="true" />
+            <element signature="e#1474#1475#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/sectorbob/football/client/ProFootballReferenceClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="60" column="98" selection-start-line="60" selection-start-column="98" selection-end-line="60" selection-end-column="98" />
+          <folding>
+            <element signature="method#validateFor404NotFoundPage#0;class#ProFootballReferenceClient#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/sectorbob/football/client/RosterWatchClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26595744">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/sectorbob/football/rest/RankingsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49468085">
+          <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#602#603#0" expanded="false" />
+            <element signature="e#676#677#0" expanded="false" />
+            <element signature="e#602#603#0" expanded="false" />
+            <element signature="e#676#677#0" expanded="false" />
+            <element signature="e#602#603#0" expanded="false" />
+            <element signature="e#676#677#0" expanded="false" />
+            <element signature="e#602#603#0" expanded="false" />
+            <element signature="e#676#677#0" expanded="false" />
+            <element signature="e#602#603#0" expanded="false" />
+            <element signature="e#676#677#0" expanded="false" />
+            <element signature="e#602#603#0" expanded="false" />
+            <element signature="e#676#677#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/sectorbob/football/model/Position.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="45" column="26" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/sectorbob/football/model/RotoGrindersVegasOddsRecord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5319149">
+          <caret line="36" column="32" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+          <folding>
+            <element signature="e#1460#1461#0" expanded="true" />
+            <element signature="e#1504#1505#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/sectorbob/football/client/RotoGrindersClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="71" column="104" selection-start-line="71" selection-start-column="104" selection-end-line="71" selection-end-column="104" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/sectorbob/football/config/SpringConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5851064">
+          <caret line="31" column="88" selection-start-line="31" selection-start-column="88" selection-end-line="31" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/sectorbob/football/rest/VegasLinesController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13297872">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/sectorbob/football/client/FantasyProsClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="method#parse#0;class#FantasyProsClient#0" expanded="false" />
+            <element signature="method#extractCsrfCookieValue#0;class#FantasyProsClient#0" expanded="false" />
+            <element signature="method#authenticate#0;class#FantasyProsClient#0" expanded="false" />
+            <element signature="method#authenticate#0;class#FantasyProsClient#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/sectorbob/football/model/CurrentPlayerRecord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7712766">
+          <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+          <folding>
+            <element signature="e#1082#1083#0" expanded="true" />
+            <element signature="e#1120#1121#0" expanded="true" />
+            <element signature="e#1152#1153#0" expanded="true" />
+            <element signature="e#2111#2112#0" expanded="true" />
+            <element signature="e#2149#2150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$JAVA_HOME$/src.zip!/java/time/Duration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.3812056">
+          <caret line="361" column="23" selection-start-line="361" selection-start-column="23" selection-end-line="361" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$JAVA_HOME$/src.zip!/java/util/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="883" column="16" selection-start-line="883" selection-start-column="16" selection-end-line="883" selection-end-column="16" />
+          <folding>
+            <element signature="e#37718#37719#0" expanded="false" />
+            <element signature="e#37754#37755#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$JAVA_HOME$/src.zip!/java/text/SimpleDateFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="13.962766">
+          <caret line="577" column="11" selection-start-line="577" selection-start-column="11" selection-end-line="577" selection-end-column="11" />
+          <folding>
+            <element signature="e#23443#23444#0" expanded="true" />
+            <element signature="e#23515#23516#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/sectorbob/football/logic/WeekTiming.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#532#533#0" expanded="false" />
+            <element signature="e#581#582#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/sectorbob/football/logic/WeekTimingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/sectorbob/football/client/YahooDailyFantasyFootballClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="94" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/sectorbob/football/rest/DailyController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5851064">
+          <caret line="22" column="53" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/sectorbob/football/model/PFRRushingAndReceivingRecord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="32" selection-end-column="33" />
+          <folding>
+            <element signature="e#1684#1685#0" expanded="true" />
+            <element signature="e#1724#1725#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/sectorbob/football/model/PFRTeamDefenseRecord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1861702">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="35" selection-end-column="54" />
+          <folding>
+            <element signature="e#1461#1462#0" expanded="true" />
+            <element signature="e#1492#1493#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/sectorbob/football/model/PFRPassingRecord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="43" selection-end-column="38" />
+          <folding>
+            <element signature="e#1772#1773#0" expanded="true" />
+            <element signature="e#1799#1800#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/sectorbob/football/rest/CurrentPlayerJoinController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0797873">
+          <caret line="91" column="83" selection-start-line="91" selection-start-column="83" selection-end-line="91" selection-end-column="83" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/sectorbob/football/model/Team.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="182" column="43" selection-start-line="182" selection-start-column="43" selection-end-line="182" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/sectorbob/football/model/YahooDailyPlayersFeedNFL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.31383">
+          <caret line="162" column="37" selection-start-line="162" selection-start-column="37" selection-end-line="162" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/sectorbob/football/model/MasterPlayerRecord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="262" column="68" selection-start-line="262" selection-start-column="68" selection-end-line="262" selection-end-column="68" />
+          <folding>
+            <element signature="e#954#955#0" expanded="true" />
+            <element signature="e#987#988#0" expanded="true" />
+            <element signature="e#1039#1040#0" expanded="true" />
+            <element signature="e#1083#1084#0" expanded="true" />
+            <element signature="e#1120#1121#0" expanded="true" />
+            <element signature="e#1151#1152#0" expanded="true" />
+            <element signature="e#1201#1202#0" expanded="true" />
+            <element signature="e#1241#1242#0" expanded="true" />
+            <element signature="e#1270#1271#0" expanded="true" />
+            <element signature="e#1297#1298#0" expanded="true" />
+            <element signature="e#1335#1336#0" expanded="true" />
+            <element signature="e#1367#1368#0" expanded="true" />
+            <element signature="e#1400#1401#0" expanded="true" />
+            <element signature="e#1431#1432#0" expanded="true" />
+            <element signature="e#1477#1478#0" expanded="true" />
+            <element signature="e#1517#1518#0" expanded="true" />
+            <element signature="e#1551#1552#0" expanded="true" />
+            <element signature="e#1581#1582#0" expanded="true" />
+            <element signature="e#1627#1628#0" expanded="true" />
+            <element signature="e#1665#1666#0" expanded="true" />
+            <element signature="e#1696#1697#0" expanded="true" />
+            <element signature="e#1723#1724#0" expanded="true" />
+            <element signature="e#1763#1764#0" expanded="true" />
+            <element signature="e#1795#1796#0" expanded="true" />
+            <element signature="e#1834#1835#0" expanded="true" />
+            <element signature="e#1869#1870#0" expanded="true" />
+            <element signature="e#1925#1926#0" expanded="true" />
+            <element signature="e#1973#1974#0" expanded="true" />
+            <element signature="e#2018#2019#0" expanded="true" />
+            <element signature="e#2058#2059#0" expanded="true" />
+            <element signature="e#2125#2126#0" expanded="true" />
+            <element signature="e#2183#2184#0" expanded="true" />
+            <element signature="e#2228#2229#0" expanded="true" />
+            <element signature="e#2268#2269#0" expanded="true" />
+            <element signature="e#2335#2336#0" expanded="true" />
+            <element signature="e#2393#2394#0" expanded="true" />
+            <element signature="e#2438#2439#0" expanded="true" />
+            <element signature="e#2478#2479#0" expanded="true" />
+            <element signature="e#2545#2546#0" expanded="true" />
+            <element signature="e#2603#2604#0" expanded="true" />
+            <element signature="e#2648#2649#0" expanded="true" />
+            <element signature="e#2688#2689#0" expanded="true" />
+            <element signature="e#2755#2756#0" expanded="true" />
+            <element signature="e#2813#2814#0" expanded="true" />
+            <element signature="e#2859#2860#0" expanded="true" />
+            <element signature="e#2900#2901#0" expanded="true" />
+            <element signature="e#2969#2970#0" expanded="true" />
+            <element signature="e#3029#3030#0" expanded="true" />
+            <element signature="e#3076#3077#0" expanded="true" />
+            <element signature="e#3118#3119#0" expanded="true" />
+            <element signature="e#3189#3190#0" expanded="true" />
+            <element signature="e#3251#3252#0" expanded="true" />
+            <element signature="e#3283#3284#0" expanded="true" />
+            <element signature="e#3310#3311#0" expanded="true" />
+            <element signature="e#3351#3352#0" expanded="true" />
+            <element signature="e#3383#3384#0" expanded="true" />
+            <element signature="e#3424#3425#0" expanded="true" />
+            <element signature="e#3460#3461#0" expanded="true" />
+            <element signature="e#3519#3520#0" expanded="true" />
+            <element signature="e#3569#3570#0" expanded="true" />
+            <element signature="e#3837#3838#0" expanded="true" />
+            <element signature="e#3885#3886#0" expanded="true" />
+            <element signature="e#3932#3933#0" expanded="true" />
+            <element signature="e#3975#3976#0" expanded="true" />
+            <element signature="e#4437#4438#0" expanded="true" />
+            <element signature="e#4469#4470#0" expanded="true" />
+            <element signature="e#4519#4520#0" expanded="true" />
+            <element signature="e#4561#4562#0" expanded="true" />
+            <element signature="e#4592#4593#0" expanded="true" />
+            <element signature="e#4618#4619#0" expanded="true" />
+            <element signature="e#4657#4658#0" expanded="true" />
+            <element signature="e#4687#4688#0" expanded="true" />
+            <element signature="e#4720#4721#0" expanded="true" />
+            <element signature="e#4746#4747#0" expanded="true" />
+            <element signature="e#4787#4788#0" expanded="true" />
+            <element signature="e#4823#4824#0" expanded="true" />
+            <element signature="e#4882#4883#0" expanded="true" />
+            <element signature="e#4932#4933#0" expanded="true" />
+            <element signature="e#4973#4974#0" expanded="true" />
+            <element signature="e#5003#5004#0" expanded="true" />
+            <element signature="e#5041#5042#0" expanded="true" />
+            <element signature="e#5072#5073#0" expanded="true" />
+            <element signature="e#5123#5124#0" expanded="true" />
+            <element signature="e#5163#5164#0" expanded="true" />
+            <element signature="e#12610#12611#0" expanded="true" />
+            <element signature="e#12646#12647#0" expanded="true" />
+            <element signature="e#12693#12694#0" expanded="true" />
+            <element signature="e#12735#12736#0" expanded="true" />
+            <element signature="e#12779#12780#0" expanded="true" />
+            <element signature="e#12822#12823#0" expanded="true" />
+            <element signature="e#12883#12884#0" expanded="true" />
+            <element signature="e#12939#12940#0" expanded="true" />
+            <element signature="e#12982#12983#0" expanded="true" />
+            <element signature="e#13024#13025#0" expanded="true" />
+            <element signature="e#13083#13084#0" expanded="true" />
+            <element signature="e#13137#13138#0" expanded="true" />
+            <element signature="e#13184#13185#0" expanded="true" />
+            <element signature="e#13230#13231#0" expanded="true" />
+            <element signature="e#13298#13299#0" expanded="true" />
+            <element signature="e#13361#13362#0" expanded="true" />
+            <element signature="e#13405#13406#0" expanded="true" />
+            <element signature="e#13448#13449#0" expanded="true" />
+            <element signature="e#13509#13510#0" expanded="true" />
+            <element signature="e#13565#13566#0" expanded="true" />
+            <element signature="e#13614#13615#0" expanded="true" />
+            <element signature="e#13662#13663#0" expanded="true" />
+            <element signature="e#13733#13734#0" expanded="true" />
+            <element signature="e#13799#13800#0" expanded="true" />
+            <element signature="e#13844#13845#0" expanded="true" />
+            <element signature="e#13888#13889#0" expanded="true" />
+            <element signature="e#13951#13952#0" expanded="true" />
+            <element signature="e#14009#14010#0" expanded="true" />
+            <element signature="e#14052#14053#0" expanded="true" />
+            <element signature="e#14094#14095#0" expanded="true" />
+            <element signature="e#14153#14154#0" expanded="true" />
+            <element signature="e#14207#14208#0" expanded="true" />
+            <element signature="e#14265#14266#0" expanded="true" />
+            <element signature="e#14323#14324#0" expanded="true" />
+            <element signature="e#14550#14551#0" expanded="true" />
+            <element signature="e#14601#14602#0" expanded="true" />
+            <element signature="e#14801#14802#0" expanded="true" />
+            <element signature="e#14853#14854#0" expanded="true" />
+            <element signature="e#15072#15073#0" expanded="true" />
+            <element signature="e#15139#15140#0" expanded="true" />
+            <element signature="e#15398#15399#0" expanded="true" />
+            <element signature="e#15444#15445#0" expanded="true" />
+            <element signature="e#15511#15512#0" expanded="true" />
+            <element signature="e#15573#15574#0" expanded="true" />
+            <element signature="e#15617#15618#0" expanded="true" />
+            <element signature="e#15660#15661#0" expanded="true" />
+            <element signature="e#15721#15722#0" expanded="true" />
+            <element signature="e#15777#15778#0" expanded="true" />
+            <element signature="e#15826#15827#0" expanded="true" />
+            <element signature="e#15874#15875#0" expanded="true" />
+            <element signature="e#15945#15946#0" expanded="true" />
+            <element signature="e#16011#16012#0" expanded="true" />
+            <element signature="e#16054#16055#0" expanded="true" />
+            <element signature="e#16096#16097#0" expanded="true" />
+            <element signature="e#16155#16156#0" expanded="true" />
+            <element signature="e#16209#16210#0" expanded="true" />
+            <element signature="e#16248#16249#0" expanded="true" />
+            <element signature="e#16286#16287#0" expanded="true" />
+            <element signature="e#16337#16338#0" expanded="true" />
+            <element signature="e#16383#16384#0" expanded="true" />
+            <element signature="e#16425#16426#0" expanded="true" />
+            <element signature="e#16466#16467#0" expanded="true" />
+            <element signature="e#16523#16524#0" expanded="true" />
+            <element signature="e#16575#16576#0" expanded="true" />
+            <element signature="e#16621#16622#0" expanded="true" />
+            <element signature="e#16666#16667#0" expanded="true" />
+            <element signature="e#16731#16732#0" expanded="true" />
+            <element signature="e#16791#16792#0" expanded="true" />
+            <element signature="e#16842#16843#0" expanded="true" />
+            <element signature="e#16892#16893#0" expanded="true" />
+            <element signature="e#17085#17086#0" expanded="true" />
+            <element signature="e#17132#17133#0" expanded="true" />
+            <element signature="e#17201#17202#0" expanded="true" />
+            <element signature="e#17265#17266#0" expanded="true" />
+            <element signature="e#17309#17310#0" expanded="true" />
+            <element signature="e#17352#17353#0" expanded="true" />
+            <element signature="e#17413#17414#0" expanded="true" />
+            <element signature="e#17469#17470#0" expanded="true" />
+            <element signature="e#17514#17515#0" expanded="true" />
+            <element signature="e#17558#17559#0" expanded="true" />
+            <element signature="e#17621#17622#0" expanded="true" />
+            <element signature="e#17679#17680#0" expanded="true" />
+            <element signature="e#17723#17724#0" expanded="true" />
+            <element signature="e#17766#17767#0" expanded="true" />
+            <element signature="e#17827#17828#0" expanded="true" />
+            <element signature="e#17883#17884#0" expanded="true" />
+            <element signature="e#17936#17937#0" expanded="true" />
+            <element signature="e#17988#17989#0" expanded="true" />
+            <element signature="e#18182#18183#0" expanded="true" />
+            <element signature="e#18222#18223#0" expanded="true" />
+            <element signature="e#18277#18278#0" expanded="true" />
+            <element signature="e#18327#18328#0" expanded="true" />
+            <element signature="e#18375#18376#0" expanded="true" />
+            <element signature="e#18422#18423#0" expanded="true" />
+            <element signature="e#18491#18492#0" expanded="true" />
+            <element signature="e#18555#18556#0" expanded="true" />
+            <element signature="e#18604#18605#0" expanded="true" />
+            <element signature="e#18652#18653#0" expanded="true" />
+            <element signature="e#18723#18724#0" expanded="true" />
+            <element signature="e#18789#18790#0" expanded="true" />
+            <element signature="e#18846#18847#0" expanded="true" />
+            <element signature="e#18902#18903#0" expanded="true" />
+            <element signature="e#19125#19126#0" expanded="true" />
+            <element signature="e#19178#19179#0" expanded="true" />
+            <element signature="e#19386#19387#0" expanded="true" />
+            <element signature="e#19436#19437#0" expanded="true" />
+            <element signature="e#19637#19638#0" expanded="true" />
+            <element signature="e#19692#19693#0" expanded="true" />
+            <element signature="e#19908#19909#0" expanded="true" />
+            <element signature="e#19958#19959#0" expanded="true" />
+            <element signature="e#20161#20162#0" expanded="true" />
+            <element signature="e#20218#20219#0" expanded="true" />
+            <element signature="e#20445#20446#0" expanded="true" />
+            <element signature="e#20498#20499#0" expanded="true" />
+            <element signature="e#20706#20707#0" expanded="true" />
+            <element signature="e#20756#20757#0" expanded="true" />
+            <element signature="e#20957#20958#0" expanded="true" />
+            <element signature="e#21012#21013#0" expanded="true" />
+            <element signature="e#21235#21236#0" expanded="true" />
+            <element signature="e#21292#21293#0" expanded="true" />
+            <element signature="e#21506#21507#0" expanded="true" />
+            <element signature="e#21546#21547#0" expanded="true" />
+            <element signature="e#21601#21602#0" expanded="true" />
+            <element signature="e#21651#21652#0" expanded="true" />
+            <element signature="e#21695#21696#0" expanded="true" />
+            <element signature="e#21738#21739#0" expanded="true" />
+            <element signature="e#21799#21800#0" expanded="true" />
+            <element signature="e#21855#21856#0" expanded="true" />
+            <element signature="e#21906#21907#0" expanded="true" />
+            <element signature="e#21956#21957#0" expanded="true" />
+            <element signature="e#22154#22155#0" expanded="true" />
+            <element signature="e#22207#22208#0" expanded="true" />
+            <element signature="e#22417#22418#0" expanded="true" />
+            <element signature="e#22471#22472#0" expanded="true" />
+            <element signature="e#22696#22697#0" expanded="true" />
+            <element signature="e#22761#22762#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi/3.14/poi-3.14.jar!/org/apache/poi/ss/usermodel/Cell.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37802607">
+          <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/sectorbob/football/rest/ExcelController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="52" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/sectorbob/football/excel/ProjectionSheetGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="205" column="9" selection-start-line="205" selection-start-column="9" selection-end-line="205" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
