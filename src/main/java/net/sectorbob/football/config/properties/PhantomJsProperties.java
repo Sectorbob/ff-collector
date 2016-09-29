@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
  * Created by ltm688 on 9/29/16.
  */
 @Component
-@ConfigurationProperties(prefix="net.sectorbob.fantasy.phantomjs.driverPath")
+@ConfigurationProperties(prefix="net.sectorbob.fantasy.phantomjs")
 public class PhantomJsProperties {
 
     private String driverPath;
